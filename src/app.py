@@ -14,7 +14,7 @@ db= SQLAlchemy(app)
 MIGRATE = Migrate(app,db)
 
 #Importamos los modelos 
-from models import Users, Post, Comment, Followers
+from models import User, Post, Comment, Follower
 
 
 #Ruta de prueba

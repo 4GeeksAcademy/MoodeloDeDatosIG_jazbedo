@@ -16,8 +16,8 @@ flask-admin = "==1.6.1"
 wtforms = "==3.0.1"
 flask = "*"
 sqlalchemy = "*"
-flask-sqlalchemy = "*"
 eralchemy2 = "*"
+flask-sqlalchemy = "*"
 flask-migrate = "*"
 
 [requires]
